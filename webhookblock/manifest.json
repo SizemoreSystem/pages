@@ -1,8 +1,0 @@
-{
-  "name": "Webhook Filter",
-  "id": "user.webhookfilter",
-  "version": "1.0.0",
-  "author": "",
-  "description": "Filters webhook messages based on author name keywords",
-  "main": "index.js"
-}
